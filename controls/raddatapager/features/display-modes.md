@@ -26,7 +26,7 @@ The enumeration has the following values:
 * __FirstLastNumeric__ - the go to first and last page buttons and the numeric buttons are displayed
 
 
-* __FirstLastPreviousNext__ - the go to first and last page buttons and go to previous and next page buttons are displayed
+* __FirstLastPreviousNext (Default)__ - the go to first and last page buttons and go to previous and next page buttons are displayed
 
 
 * __FirstLastPreviousNextNumeric__ - same as above, but in addition the numeric buttons are also displayed
@@ -53,7 +53,7 @@ The enumeration has the following values:
 * __Text__ - only the textbox and the label are displayed
 
 
-* __All (default)__ - all buttons are displayed
+* __All__ - all buttons are displayed
 
 Here is an example of a __RadDataPager__ that displays the previous, next and numeric buttons.
 
